@@ -1,0 +1,6 @@
+.hvigor/
+.idea/
+build/
+BuildProfile.ets
+local.properties
+oh_modules/

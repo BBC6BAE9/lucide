@@ -1,0 +1,7 @@
+{
+  "name": "lucide-remote",
+  "version": "1.0.0",
+  "description": "Native vector Lucide icons for HarmonyOS ArkUI.",
+  "main": "Index.ets",
+  "dependencies": {}
+}
