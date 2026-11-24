@@ -1,4 +1,4 @@
-package dev.lucideremote
+package dev.lucide
 
 import android.graphics.Paint
 import android.graphics.Path

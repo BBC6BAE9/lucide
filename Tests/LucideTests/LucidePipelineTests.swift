@@ -2,13 +2,13 @@ import Foundation
 import XCTest
 import os
 
-@testable import LucideRemote
+@testable import Lucide
 
 final class LucidePipelineTests: XCTestCase {
   private var directory: URL!
 
   override func setUpWithError() throws {
-    directory = FileManager.default.temporaryDirectory.appending(path: "LucideRemoteTests-\(UUID().uuidString)")
+    directory = FileManager.default.temporaryDirectory.appending(path: "LucideTests-\(UUID().uuidString)")
     try FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
     StubProtocol.reset()
   }

@@ -12,8 +12,8 @@
   },
   "modules": [
     {
-      "name": "lucide_remote",
-      "srcPath": "./lucide_remote",
+      "name": "lucide",
+      "srcPath": "./lucide",
       "targets": [{ "name": "default", "applyToProducts": ["default"] }]
     }
   ]

@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.lucideremote"
+    namespace = "dev.lucide"
     compileSdk = 36
 
     defaultConfig {

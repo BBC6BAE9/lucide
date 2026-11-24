@@ -3,13 +3,13 @@
 import PackageDescription
 
 let package = Package(
-  name: "LucideRemote",
+  name: "Lucide",
   platforms: [.iOS(.v17), .macOS(.v14)],
   products: [
-    .library(name: "LucideRemote", targets: ["LucideRemote"])
+    .library(name: "Lucide", targets: ["Lucide"])
   ],
   targets: [
-    .target(name: "LucideRemote"),
-    .testTarget(name: "LucideRemoteTests", dependencies: ["LucideRemote"]),
+    .target(name: "Lucide"),
+    .testTarget(name: "LucideTests", dependencies: ["Lucide"]),
   ]
 )

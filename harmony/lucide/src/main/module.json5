@@ -1,6 +1,6 @@
 {
   "module": {
-    "name": "lucide_remote",
+    "name": "lucide",
     "type": "har",
     "deviceTypes": ["default", "tablet", "2in1", "wearable", "tv"]
   }

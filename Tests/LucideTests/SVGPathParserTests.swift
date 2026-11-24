@@ -1,7 +1,7 @@
 import CoreGraphics
 import XCTest
 
-@testable import LucideRemote
+@testable import Lucide
 
 final class SVGPathParserTests: XCTestCase {
   func testMoveRepeatsAsLineInBothCases() throws {

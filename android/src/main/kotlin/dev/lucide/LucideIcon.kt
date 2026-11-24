@@ -1,4 +1,4 @@
-package dev.lucideremote
+package dev.lucide
 
 import android.graphics.RectF
 import androidx.compose.foundation.Canvas
