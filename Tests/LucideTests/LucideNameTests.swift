@@ -1,7 +1,7 @@
 import Foundation
 import XCTest
 
-@testable import LucideRemote
+@testable import Lucide
 
 final class LucideNameTests: XCTestCase {
   func testRawValuesAreLucideFileNames() {

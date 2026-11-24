@@ -2,7 +2,7 @@ import CoreGraphics
 import Foundation
 import XCTest
 
-@testable import LucideRemote
+@testable import Lucide
 
 final class LucideSVGTests: XCTestCase {
   func testParsesLucideRootAttributesAndStrokedPaths() throws {

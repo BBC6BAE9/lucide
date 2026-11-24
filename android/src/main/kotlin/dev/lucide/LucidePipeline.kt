@@ -1,4 +1,4 @@
-package dev.lucideremote
+package dev.lucide
 
 import android.content.Context
 import android.graphics.Bitmap
